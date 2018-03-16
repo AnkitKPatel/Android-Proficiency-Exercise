@@ -10,7 +10,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by ANKITKP on 2018-03-16.
+ * The type Api client.
  */
 public class APIClient {
 

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Test App Ankit</string>
+    <string name="close">Close</string>
+    <string name="noInternetConnection_AlertMessage">Please connect to an active internet connection to get feeds</string>
+    <string name="JSONException">There is some error in the format of the data</string>
+    <string name="SocketTimeoutException">Unable to connect to the feeds server</string>
+    <string name="SomethingWentWrong">Some unknown error occured</string>
+    <string name="CallFailedWithError">Call failed with error: %1$s</string>
 </resources>

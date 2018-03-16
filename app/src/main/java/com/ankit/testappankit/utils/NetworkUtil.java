@@ -1,15 +1,11 @@
 package com.ankit.testappankit.utils;
 
-import android.content.Context;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
-
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Created by ANKITKP on 2018-03-16.
+ * The type Network util.
  */
 public class NetworkUtil {
 

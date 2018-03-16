@@ -7,7 +7,7 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by ANKITKP on 2018-03-16.
+ * The type Connectivity interceptor.
  */
 public class ConnectivityInterceptor implements Interceptor {
 

@@ -4,8 +4,8 @@ import com.bumptech.glide.annotation.GlideModule;
 import com.bumptech.glide.module.AppGlideModule;
 
 /**
- * Created by ANKITKP on 2018-03-16.
+ * The type My app glide module.
  */
-
 @GlideModule
-public final class MyAppGlideModule extends AppGlideModule {}
+public final class MyAppGlideModule extends AppGlideModule {
+}
